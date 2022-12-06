@@ -1,0 +1,49 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Teko', sans-serif;
+}
+
+body {
+    background-color: azure;
+}
+
+
+/* slider images */
+.image-height img {
+    height: 500px;
+}
+
+/* list item */
+.text-style li {
+    list-style: none;
+}
+
+.card-btn {
+    background-color: lightgray;
+}
+
+.extra-sha {
+    background-color: aqua;
+    box-shadow: 25px 25px 25px 15px gray;
+}
+
+/* footer */
+.footer {
+    height: 300px;
+    width: 100%;
+    margin-top: 100px;
+    background-color: rgb(3, 3, 22);
+    color: white;
+}
+
+/* footer btn */
+.footer-btn {
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: silver;
+    border: 1px solid silver;
+
+
+}
